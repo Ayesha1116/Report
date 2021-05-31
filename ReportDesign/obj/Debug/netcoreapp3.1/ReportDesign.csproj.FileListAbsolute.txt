@@ -1,0 +1,17 @@
+E:\Ashwin Doc\jOB\MINDFORK\ReportDesign\bin\Debug\netcoreapp3.1\ReportDesign.exe
+E:\Ashwin Doc\jOB\MINDFORK\ReportDesign\bin\Debug\netcoreapp3.1\ReportDesign.deps.json
+E:\Ashwin Doc\jOB\MINDFORK\ReportDesign\bin\Debug\netcoreapp3.1\ReportDesign.runtimeconfig.json
+E:\Ashwin Doc\jOB\MINDFORK\ReportDesign\bin\Debug\netcoreapp3.1\ReportDesign.runtimeconfig.dev.json
+E:\Ashwin Doc\jOB\MINDFORK\ReportDesign\bin\Debug\netcoreapp3.1\ReportDesign.dll
+E:\Ashwin Doc\jOB\MINDFORK\ReportDesign\bin\Debug\netcoreapp3.1\ReportDesign.pdb
+E:\Ashwin Doc\jOB\MINDFORK\ReportDesign\obj\Debug\netcoreapp3.1\ReportDesign.csprojAssemblyReference.cache
+E:\Ashwin Doc\jOB\MINDFORK\ReportDesign\obj\Debug\netcoreapp3.1\ReportDesign.Form1.resources
+E:\Ashwin Doc\jOB\MINDFORK\ReportDesign\obj\Debug\netcoreapp3.1\ReportDesign.csproj.GenerateResource.cache
+E:\Ashwin Doc\jOB\MINDFORK\ReportDesign\obj\Debug\netcoreapp3.1\ReportDesign.AssemblyInfoInputs.cache
+E:\Ashwin Doc\jOB\MINDFORK\ReportDesign\obj\Debug\netcoreapp3.1\ReportDesign.AssemblyInfo.cs
+E:\Ashwin Doc\jOB\MINDFORK\ReportDesign\obj\Debug\netcoreapp3.1\ReportDesign.csproj.CoreCompileInputs.cache
+E:\Ashwin Doc\jOB\MINDFORK\ReportDesign\obj\Debug\netcoreapp3.1\ReportDesign.dll
+E:\Ashwin Doc\jOB\MINDFORK\ReportDesign\obj\Debug\netcoreapp3.1\ReportDesign.pdb
+E:\Ashwin Doc\jOB\MINDFORK\ReportDesign\obj\Debug\netcoreapp3.1\ReportDesign.genruntimeconfig.cache
+E:\Ashwin Doc\jOB\MINDFORK\ReportDesign\bin\Debug\netcoreapp3.1\ReportDesign.dll.config
+E:\Ashwin Doc\jOB\MINDFORK\ReportDesign\obj\Debug\netcoreapp3.1\ReportDesign.dll.config
